@@ -14,6 +14,7 @@ string decimalToHex(string);
 string hexToDecimal(string);
 bool numCheck(string);
 void menu(unsigned = 50);
+//test
 
 // adt
 enum Readability {
